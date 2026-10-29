@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+secrets/
+dist/
+build/
+*.app
+*.dmg
+# Design exploration and local QA output; the website source lives at repository root.
+design-demos/
