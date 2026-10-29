@@ -1,9 +1,26 @@
-# cduyzh Mac 工具集
+# cduyzh Mac Apps
 
-一个无需构建工具的静态 Mac 应用展示页。直接在浏览器中打开 `index.html`，或将 `index.html`、`styles.css` 和 `assets/` 一同部署到静态网站空间。
+[English](README.md) | [简体中文](README.zh-CN.md)
 
-工具介绍与链接位于 `index.html`，图标位于 `assets/icons/`。项目链接指向已核实可访问的 GitHub 仓库，TouchFlow 暂不提供未经核实的仓库或下载链接。翻译应用按当前项目规范显示 iTrans（极译 AI）；现有公开仓库仍为 TransBar。
+A simple, bilingual collection of native Mac utilities by cduyzh. Visit **[apps.cduyzh.top](https://apps.cduyzh.top/)** to explore the apps.
 
-`design-demos/` 保存选型初稿与确认记录，不是网站运行必需文件。
+## The collection
 
-英文版本为 `en.html`，中英文页面可以互相切换。两页均包含描述应用集合的 JSON-LD；最终公开网址确定后，应为两页配置绝对 URL 的 canonical 和互相对应的 hreflang，并生成对应 sitemap，再提交 Search Console。当前不预设部署域名或路径。
+| App | What it does | Project |
+| --- | --- | --- |
+| SnapScreen | Screenshots, scrolling captures, and screen recording | [GitHub](https://github.com/cduyzh/SnapScreen) |
+| iTrans | Menu bar translation; formerly known as TransBar | [GitHub](https://github.com/cduyzh/TransBar) |
+| ProcessLens | Process, CPU, and memory monitoring | [GitHub](https://github.com/cduyzh/ProcessLens) |
+| DiskSweep | Find large and duplicate files | [GitHub](https://github.com/cduyzh/DiskSweep) |
+| MenuBarTidy | Organize menu bar icons | [GitHub](https://github.com/cduyzh/MenuBarTidy) |
+| WallpaperLoop | Video and photo wallpapers | [GitHub](https://github.com/cduyzh/WallpaperLoop) |
+| MediaSaver | Save video and create Live Photos and GIFs | [GitHub](https://github.com/cduyzh/MediaSaver) |
+| TouchFlow | Trackpad gestures and window control | Project information coming soon |
+
+## Run locally
+
+This is a static website with no build step or runtime dependencies. Open `index.html` in a browser or serve the repository with any static HTTP server. English is the default page; `zh.html` is the Simplified Chinese version. `en.html` redirects visitors from the earlier English URL to the homepage.
+
+App descriptions and links are maintained in each HTML page, with icons in `assets/icons/` and shared styles in `styles.css`. The pages include canonical URLs, reciprocal language annotations, and JSON-LD; `sitemap.xml` and `robots.txt` describe the intended production URLs. Search indexing depends on deployment and search engine processing.
+
+Created by [cduyzh](https://www.cduyzh.top/).
