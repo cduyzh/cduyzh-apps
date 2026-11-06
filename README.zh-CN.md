@@ -9,7 +9,7 @@
 | 应用 | 功能 | 项目地址 |
 | --- | --- | --- |
 | SnapScreen（极速截屏） | 截图、长截图和屏幕录制 | [GitHub](https://github.com/cduyzh/SnapScreen) |
-| iTrans（极译 AI） | 菜单栏翻译，曾用名 TransBar | [GitHub](https://github.com/cduyzh/TransBar) |
+| iTrans（极译 AI） | 支持 DeepSeek 与 Google、划词翻译和 Agent Gateway 的原生菜单栏翻译工具 | [产品页](https://apps.cduyzh.top/iTrans/zh.html) · [GitHub](https://github.com/cduyzh/iTrans) |
 | ProcessLens（进程监视器） | 监测进程、CPU 和内存 | [GitHub](https://github.com/cduyzh/ProcessLens) |
 | DiskSweep（磁盘清理大师） | 查找大文件和重复文件 | [GitHub](https://github.com/cduyzh/DiskSweep) |
 | MenuBarTidy（菜单栏管家） | 整理菜单栏图标 | [GitHub](https://github.com/cduyzh/MenuBarTidy) |

@@ -9,7 +9,7 @@ A simple, bilingual collection of native Mac utilities by cduyzh. Visit **[apps.
 | App | What it does | Project |
 | --- | --- | --- |
 | SnapScreen | Screenshots, scrolling captures, and screen recording | [GitHub](https://github.com/cduyzh/SnapScreen) |
-| iTrans | Menu bar translation; formerly known as TransBar | [GitHub](https://github.com/cduyzh/TransBar) |
+| iTrans | Native menu bar translation with DeepSeek and Google engines, selection shortcuts, and an Agent Gateway | [Product page](https://apps.cduyzh.top/iTrans/) · [GitHub](https://github.com/cduyzh/iTrans) |
 | ProcessLens | Process, CPU, and memory monitoring | [GitHub](https://github.com/cduyzh/ProcessLens) |
 | DiskSweep | Find large and duplicate files | [GitHub](https://github.com/cduyzh/DiskSweep) |
 | MenuBarTidy | Organize menu bar icons | [GitHub](https://github.com/cduyzh/MenuBarTidy) |
