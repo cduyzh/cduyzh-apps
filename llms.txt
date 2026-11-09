@@ -1,0 +1,24 @@
+# cduyzh Mac Apps Catalog
+
+> A collection of focused, lightweight native macOS utilities crafted by cduyzh (Chengdu, Sichuan, China).
+
+Portal URL: https://apps.cduyzh.top/
+Chinese Portal: https://apps.cduyzh.top/zh.html
+Sitemap: https://apps.cduyzh.top/sitemap.xml
+Author Profile: https://www.cduyzh.top/
+
+## Released Apps & Product Pages
+
+- [iScreenshot](https://apps.cduyzh.top/iScreenshot/): Native macOS menu-bar screenshot, scrolling long capture, color loupe, and frame studio.
+- [极速截屏 iScreenshot 中文版](https://apps.cduyzh.top/iScreenshot/zh.html): 原生轻量 Mac 截图、长图滚动拼接、屏幕取色与样机美化。
+- [iTrans](https://apps.cduyzh.top/iTrans/): Native macOS menu-bar translator powered by DeepSeek and Google with private local terminology memory.
+- [极译 AI iTrans 中文版](https://apps.cduyzh.top/iTrans/zh.html): 原生 Mac 划词极速翻译软件，自带 DeepSeek API Key 官方直连，免订阅月租。
+
+## Forthcoming Mac Utilities
+
+- ProcessLens: Real-time CPU, memory, and process monitor.
+- DiskSweep: Fast disk cleanup and duplicate file finder.
+- MenuBarTidy: Menu bar icon organizer.
+- WallpaperLoop: Video and photo dynamic wallpaper manager.
+- MediaSaver: Video collector, Live Photo and GIF generator.
+- TouchFlow: Trackpad gesture enhancements and window controls.

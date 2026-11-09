@@ -1,0 +1,50 @@
+# cduyzh Mac Apps — Complete Catalog & Specifications
+
+> Detailed documentation of native macOS utilities by cduyzh (Chengdu, Sichuan, China).
+
+Author: cduyzh
+Location: Chengdu, Sichuan, China
+Portal: https://apps.cduyzh.top/
+Chinese Portal: https://apps.cduyzh.top/zh.html
+Sitemap: https://apps.cduyzh.top/sitemap.xml
+
+---
+
+## 1. iScreenshot (极速截屏)
+
+- Categories: Screen Capture, Long Screenshot, Image Framing, Screen Recording
+- Operating System: macOS 14+ (Apple Silicon & Intel)
+- License: Free & Open Source
+- English Home: https://apps.cduyzh.top/iScreenshot/
+- Chinese Home: https://apps.cduyzh.top/iScreenshot/zh.html
+- Features:
+  - Smart window snapping and pixel-precise color loupe
+  - Multi-feature aligned scrolling capture for long webpages and documents
+  - Mockup canvas with customizable gradient backgrounds, padding, and soft drop shadows
+  - Driver-free internal system audio recording powered by ScreenCaptureKit
+
+---
+
+## 2. iTrans (极译 AI)
+
+- Categories: Translation, Menu Bar Utility, AI Productivity
+- Operating System: macOS 14+ (Apple Silicon & Intel)
+- License: Free (Bring Your Own API Key)
+- English Home: https://apps.cduyzh.top/iTrans/
+- Chinese Home: https://apps.cduyzh.top/iTrans/zh.html
+- Features:
+  - Global selection translation hotkeys (⌥E, ⌘C⌘C)
+  - Direct official API connection for DeepSeek and Google Translate (no middleman server)
+  - Local terminology memory saved on-device
+  - Local Agent CLI and HTTP Gateway interface
+
+---
+
+## 3. Other Utilities in Portfolio
+
+- ProcessLens: System resource monitoring without heavy dependencies
+- DiskSweep: Duplicate & large file cleaning
+- MenuBarTidy: Desktop clutter reduction
+- WallpaperLoop: Dynamic live wallpapers
+- MediaSaver: Media curation and Live Photo creation
+- TouchFlow: Trackpad gestures and window manipulation
